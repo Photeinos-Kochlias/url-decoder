@@ -1,2 +1,2 @@
-# url-decoder
-Decode URL
+# url decode/encode
+Decode or encode URL
